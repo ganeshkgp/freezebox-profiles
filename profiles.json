@@ -1,0 +1,78 @@
+[
+  {
+    "id": "curated_bgmi",
+    "name": "BGMI",
+    "icon": "🎮",
+    "packages": [
+      "com.instagram.android",
+      "com.facebook.katana",
+      "com.snapchat.android",
+      "com.discord",
+      "com.twitter.android",
+      "com.whatsapp"
+    ],
+    "keepActive": ["com.spotify.music"],
+    "launch": "com.pubg.imobile"
+  },
+  {
+    "id": "curated_pubg",
+    "name": "PUBG Mobile",
+    "icon": "🎮",
+    "packages": [
+      "com.instagram.android",
+      "com.facebook.katana",
+      "com.snapchat.android",
+      "com.discord"
+    ],
+    "keepActive": ["com.spotify.music"],
+    "launch": "com.tencent.ig"
+  },
+  {
+    "id": "curated_codm",
+    "name": "Call of Duty Mobile",
+    "icon": "🔫",
+    "packages": [
+      "com.instagram.android",
+      "com.facebook.katana",
+      "com.snapchat.android"
+    ],
+    "keepActive": ["com.spotify.music"],
+    "launch": "com.activision.callofduty.shooter"
+  },
+  {
+    "id": "curated_freefire",
+    "name": "Free Fire",
+    "icon": "🔥",
+    "packages": [
+      "com.instagram.android",
+      "com.facebook.katana",
+      "com.snapchat.android"
+    ],
+    "keepActive": [],
+    "launch": "com.dts.freefireth"
+  },
+  {
+    "id": "curated_work",
+    "name": "Work",
+    "icon": "💼",
+    "packages": [
+      "com.google.android.youtube",
+      "com.instagram.android",
+      "com.pubg.imobile",
+      "com.snapchat.android"
+    ],
+    "keepActive": ["com.Slack", "com.google.android.gm"]
+  },
+  {
+    "id": "curated_study",
+    "name": "Study",
+    "icon": "📚",
+    "packages": [
+      "com.instagram.android",
+      "com.snapchat.android",
+      "com.pubg.imobile",
+      "com.google.android.youtube"
+    ],
+    "keepActive": ["com.android.chrome", "notion.id"]
+  }
+]
