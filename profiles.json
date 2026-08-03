@@ -1,78 +1,54 @@
 [
   {
-    "id": "curated_bgmi",
-    "name": "BGMI",
+    "id": "gaming_normal",
+    "name": "Gaming — Normal",
     "icon": "🎮",
-    "packages": [
-      "com.instagram.android",
-      "com.facebook.katana",
-      "com.snapchat.android",
-      "com.discord",
-      "com.twitter.android",
-      "com.whatsapp"
-    ],
-    "keepActive": ["com.spotify.music"],
-    "launch": "com.pubg.imobile"
+    "packages": ["com.instagram.android", "com.facebook.katana", "com.snapchat.android", "com.whatsapp", "com.twitter.android", "com.discord"],
+    "keepActive": ["com.spotify.music"]
   },
   {
-    "id": "curated_pubg",
-    "name": "PUBG Mobile",
+    "id": "gaming_optimised",
+    "name": "Gaming — Optimised",
     "icon": "🎮",
-    "packages": [
-      "com.instagram.android",
-      "com.facebook.katana",
-      "com.snapchat.android",
-      "com.discord"
-    ],
-    "keepActive": ["com.spotify.music"],
-    "launch": "com.tencent.ig"
+    "packages": ["com.instagram.android", "com.facebook.katana", "com.snapchat.android", "com.whatsapp", "com.twitter.android", "com.discord", "org.telegram.messenger", "com.reddit.frontpage", "com.google.android.youtube", "com.netflix.mediaclient", "in.startv.hotstar", "in.amazon.mShop.android.shopping", "com.flipkart.android"],
+    "keepActive": ["com.spotify.music"]
   },
   {
-    "id": "curated_codm",
-    "name": "Call of Duty Mobile",
-    "icon": "🔫",
-    "packages": [
-      "com.instagram.android",
-      "com.facebook.katana",
-      "com.snapchat.android"
-    ],
-    "keepActive": ["com.spotify.music"],
-    "launch": "com.activision.callofduty.shooter"
-  },
-  {
-    "id": "curated_freefire",
-    "name": "Free Fire",
+    "id": "gaming_aggressive",
+    "name": "Gaming — Aggressive",
     "icon": "🔥",
-    "packages": [
-      "com.instagram.android",
-      "com.facebook.katana",
-      "com.snapchat.android"
-    ],
-    "keepActive": [],
-    "launch": "com.dts.freefireth"
+    "packages": [],
+    "keepActive": ["com.spotify.music"],
+    "aggressive": true
   },
   {
-    "id": "curated_work",
+    "id": "work",
     "name": "Work",
     "icon": "💼",
-    "packages": [
-      "com.google.android.youtube",
-      "com.instagram.android",
-      "com.pubg.imobile",
-      "com.snapchat.android"
-    ],
-    "keepActive": ["com.Slack", "com.google.android.gm"]
+    "packages": ["com.instagram.android", "com.facebook.katana", "com.snapchat.android", "com.google.android.youtube", "com.netflix.mediaclient", "com.pubg.imobile", "com.tencent.ig"],
+    "keepActive": ["com.Slack", "com.google.android.gm", "com.microsoft.teams", "com.android.chrome"]
   },
   {
-    "id": "curated_study",
+    "id": "study",
     "name": "Study",
     "icon": "📚",
-    "packages": [
-      "com.instagram.android",
-      "com.snapchat.android",
-      "com.pubg.imobile",
-      "com.google.android.youtube"
-    ],
+    "packages": ["com.instagram.android", "com.snapchat.android", "com.google.android.youtube", "com.pubg.imobile", "com.discord", "in.startv.hotstar"],
     "keepActive": ["com.android.chrome", "notion.id"]
+  },
+  {
+    "id": "sleep",
+    "name": "Sleep",
+    "icon": "🌙",
+    "packages": [],
+    "keepActive": ["com.google.android.deskclock"],
+    "aggressive": true
+  },
+  {
+    "id": "focus",
+    "name": "Focus",
+    "icon": "🎯",
+    "packages": [],
+    "keepActive": ["com.android.chrome", "com.google.android.gm"],
+    "aggressive": true
   }
 ]
