@@ -265,5 +265,29 @@
       "com.google.android.gm"
     ],
     "aggressive": true
+  },
+  {
+    "id": "debloat",
+    "name": "Debloat",
+    "icon": "🧹",
+    "packages": [
+      "com.facebook.katana",
+      "com.facebook.appmanager",
+      "com.facebook.services",
+      "com.facebook.system",
+      "com.linkedin.android",
+      "com.netflix.mediaclient",
+      "com.booking",
+      "com.microsoft.skydrive",
+      "com.microsoft.office.officehubrow",
+      "com.google.android.apps.tachyon",
+      "com.google.android.videos",
+      "com.google.android.apps.magazines",
+      "com.google.android.apps.subscriptions.red",
+      "in.amazon.mShop.android.shopping",
+      "com.spotify.music",
+      "com.amazon.avod.thirdpartyclient"
+    ],
+    "keepActive": []
   }
 ]
