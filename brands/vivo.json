@@ -1,6 +1,6 @@
 {
   "brand": "vivo",
-  "_note": "vivo / iQOO (Funtouch OS / OriginOS). Device-verified on iQOO I2214 (Android 16): only packages that `pm disable-user` actually accepts without root are listed — vivo ROM-protects many system apps (themes, appstore, assistant, cloud, gallery, file manager, etc.) so those are intentionally omitted. Chrome lives in generic.json.",
+  "_note": "vivo / iQOO (Funtouch OS / OriginOS). Device-verified on iQOO I2214 (Android 16). 'bloat' = safe user-facing apps that pm disable-user accepts. 'protected' = OEM-critical apps to HIDE + never freeze (biometrics, framework, system UI, security). Chrome lives in generic.json.",
   "bloat": {
     "1": [
       "com.vivo.game",
@@ -23,5 +23,39 @@
     "3": [
       "com.android.browser"
     ]
-  }
+  },
+  "protected": [
+    "com.vivo.faceui",
+    "com.vivo.faceunlock",
+    "com.vivo.fingerprint",
+    "com.vivo.fingerprintui",
+    "com.vivo.fingerprintvit",
+    "com.vivo.frameworkui",
+    "com.vivo.systemuiplugin",
+    "com.vivo.recents",
+    "com.vivo.upslide",
+    "com.vivo.minscreen",
+    "com.vivo.floatingball",
+    "com.vivo.setupwizard",
+    "com.vivo.safecenter",
+    "com.iqoo.secure",
+    "com.iqoo.powersaving",
+    "com.bbk.SuperPowerSave",
+    "com.vivo.pushservice",
+    "com.vivo.vms",
+    "com.vivo.abe",
+    "com.vivo.daemonService",
+    "com.bbk.account",
+    "com.android.bbk.lockscreen3",
+    "com.vivo.privacylauncher",
+    "com.vivo.simplelauncher",
+    "com.vivo.connbase",
+    "com.vivo.aiengine",
+    "com.vivo.ai.agent",
+    "com.vivo.card",
+    "com.vivo.SmartKey",
+    "com.vivo.assistantfunction",
+    "com.vivo.vtouch",
+    "com.vivo.motionrecognition"
+  ]
 }

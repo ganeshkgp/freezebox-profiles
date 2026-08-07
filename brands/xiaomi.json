@@ -29,5 +29,25 @@
       "com.mi.android.globalFileexplorer",
       "com.miui.gallery"
     ]
-  }
+  },
+  "protected": [
+    "com.miui.home",
+    "com.miui.securitycore",
+    "com.miui.securityadd",
+    "com.miui.system",
+    "com.miui.rom",
+    "com.xiaomi.finddevice",
+    "com.miui.face",
+    "com.miui.faceunlock",
+    "com.miui.powerkeeper",
+    "com.miui.guardprovider",
+    "com.miui.contentcatcher",
+    "com.miui.vpnsdkmanager",
+    "com.miui.qsb.pluginId",
+    "com.android.updater",
+    "com.miui.miinput",
+    "com.miui.accessibility",
+    "com.xiaomi.xmsf",
+    "com.xiaomi.finddevice"
+  ]
 }

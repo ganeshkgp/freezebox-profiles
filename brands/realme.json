@@ -27,5 +27,19 @@
       "com.coloros.filemanager",
       "com.coloros.gallery3d"
     ]
-  }
+  },
+  "protected": [
+    "com.oplus.launcher",
+    "com.oppo.launcher",
+    "com.coloros.safecenter",
+    "com.oppo.safe",
+    "com.coloros.phonemanager",
+    "com.coloros.securepay",
+    "com.oppo.face",
+    "com.coloros.faceunlock",
+    "com.coloros.fingerprint",
+    "com.coloros.oppoguardelf",
+    "com.android.incallui",
+    "com.oplus.securitypermission"
+  ]
 }

@@ -22,5 +22,15 @@
       "com.oneplus.filemanager",
       "com.oneplus.gallery"
     ]
-  }
+  },
+  "protected": [
+    "net.oneplus.launcher",
+    "com.oneplus.security",
+    "com.oneplus.faceunlock",
+    "com.oplus.launcher",
+    "com.android.incallui",
+    "com.oneplus.opbugreportlite",
+    "com.oplus.securitypermission",
+    "com.oneplus.securitypermission"
+  ]
 }

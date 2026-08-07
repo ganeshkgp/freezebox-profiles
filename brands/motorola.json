@@ -20,5 +20,14 @@
       "com.motorola.motogallery",
       "com.motorola.files"
     ]
-  }
+  },
+  "protected": [
+    "com.motorola.launcher3",
+    "com.motorola.faceunlock",
+    "com.motorola.actions",
+    "com.motorola.frameworks.core.services",
+    "com.android.incallui",
+    "com.motorola.android.provisioning",
+    "com.motorola.securityhub"
+  ]
 }

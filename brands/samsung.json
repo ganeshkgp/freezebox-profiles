@@ -30,5 +30,25 @@
       "com.samsung.android.email.provider",
       "com.sec.android.gallery3d"
     ]
-  }
+  },
+  "protected": [
+    "com.sec.android.app.launcher",
+    "com.samsung.android.honeyboard",
+    "com.samsung.android.incallui",
+    "com.samsung.android.dialer",
+    "com.samsung.faceservice",
+    "com.samsung.android.bio.face.service",
+    "com.samsung.android.server.iris",
+    "com.samsung.android.biometrics.app.setting",
+    "com.samsung.android.mtpapplication",
+    "com.samsung.android.smartfitting",
+    "com.samsung.android.spdfnote",
+    "com.samsung.android.securitylogagent",
+    "com.samsung.android.knox.containeragent",
+    "com.samsung.android.mdm",
+    "com.samsung.android.wifi.resources",
+    "com.samsung.android.spay",
+    "com.wsomacp",
+    "com.sec.android.soagent"
+  ]
 }
