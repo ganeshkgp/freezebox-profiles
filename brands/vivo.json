@@ -1,43 +1,27 @@
 {
   "brand": "vivo",
-  "_note": "vivo / iQOO (Funtouch OS / OriginOS). Curated from a real iQOO I2214 (Android 16). Only user-facing bloat — excludes system services (biometrics, connbase, frameworkui, setupwizard, push, account, power). isProtected is the on-device backstop.",
+  "_note": "vivo / iQOO (Funtouch OS / OriginOS). Device-verified on iQOO I2214 (Android 16): only packages that `pm disable-user` actually accepts without root are listed — vivo ROM-protects many system apps (themes, appstore, assistant, cloud, gallery, file manager, etc.) so those are intentionally omitted. Chrome lives in generic.json.",
   "bloat": {
     "1": [
       "com.vivo.game",
-      "com.vivo.gamecube",
-      "com.bbk.theme",
       "com.vivo.hybrid",
       "com.vivo.compass",
       "com.vivo.doubletimezoneclock",
       "com.vivo.magazine",
       "com.vivo.desktopstickers",
-      "com.iqoo.website",
-      "com.vivo.apprecommend",
       "com.vivo.numbermark",
       "com.vivo.healthwidget",
-      "com.vivo.stepcount",
       "com.vivo.exhealth"
     ],
     "2": [
-      "com.vivo.assistant",
       "com.android.bbkmusic",
-      "com.bbk.cloud",
       "com.vivo.notes",
       "com.vivo.soundrecorder",
       "com.vivo.smartoffice",
-      "com.yozo.vivo.office",
-      "com.vivo.pcsuite",
-      "com.vivo.globalsearch",
-      "com.vivo.widgetweather",
-      "com.vivo.smartshot"
+      "com.yozo.vivo.office"
     ],
     "3": [
-      "com.android.browser",
-      "com.android.chrome",
-      "com.android.filemanager",
-      "com.vivo.gallery",
-      "com.vivo.videoeditor",
-      "com.vivo.smartmultiwindow"
+      "com.android.browser"
     ]
   }
 }
