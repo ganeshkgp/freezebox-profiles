@@ -1,42 +1,43 @@
 {
   "brand": "vivo",
-  "_note": "vivo / iQOO (Funtouch OS / OriginOS). Verify against a device: `adb shell pm list packages | grep -iE 'vivo|bbk|iqoo'`.",
+  "_note": "vivo / iQOO (Funtouch OS / OriginOS). Curated from a real iQOO I2214 (Android 16). Only user-facing bloat — excludes system services (biometrics, connbase, frameworkui, setupwizard, push, account, power). isProtected is the on-device backstop.",
   "bloat": {
     "1": [
-      "com.vivo.space",
       "com.vivo.game",
       "com.vivo.gamecube",
-      "com.vivo.appstore",
-      "com.bbk.appstore",
       "com.bbk.theme",
       "com.vivo.hybrid",
-      "com.vivo.easyshare",
       "com.vivo.compass",
       "com.vivo.doubletimezoneclock",
       "com.vivo.magazine",
-      "com.vivo.livewallpaper",
-      "com.iqoo.secure.plugin"
+      "com.vivo.desktopstickers",
+      "com.iqoo.website",
+      "com.vivo.apprecommend",
+      "com.vivo.numbermark",
+      "com.vivo.healthwidget",
+      "com.vivo.stepcount",
+      "com.vivo.exhealth"
     ],
     "2": [
       "com.vivo.assistant",
-      "com.vivo.weather",
-      "com.vivo.email",
       "com.android.bbkmusic",
-      "com.vivo.cloud",
-      "com.vivo.vivocloud",
-      "com.vivo.smartmultiwindow",
-      "com.vivo.translator",
-      "com.vivo.aiengine",
+      "com.bbk.cloud",
+      "com.vivo.notes",
+      "com.vivo.soundrecorder",
+      "com.vivo.smartoffice",
+      "com.yozo.vivo.office",
+      "com.vivo.pcsuite",
       "com.vivo.globalsearch",
-      "com.vivo.numbermark"
+      "com.vivo.widgetweather",
+      "com.vivo.smartshot"
     ],
     "3": [
-      "com.vivo.browser",
-      "com.vivo.minscreen",
+      "com.android.browser",
+      "com.android.chrome",
       "com.android.filemanager",
       "com.vivo.gallery",
-      "com.android.VideoPlayer",
-      "com.vivo.favorite"
+      "com.vivo.videoeditor",
+      "com.vivo.smartmultiwindow"
     ]
   }
 }
