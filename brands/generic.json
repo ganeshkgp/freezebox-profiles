@@ -1,0 +1,29 @@
+{
+  "brand": "generic",
+  "_note": "Cross-brand Google/AOSP non-essentials. Applied on every device on top of the matched brand file. Critical apps (GMS, GSF, providers, Play Store, dialer, IME, SystemUI) are NOT listed and are blocked by the on-device isProtected guard regardless.",
+  "bloat": {
+    "1": [
+      "com.google.android.apps.tachyon",
+      "com.google.android.videos",
+      "com.google.android.play.games",
+      "com.google.android.apps.magazines",
+      "com.google.android.feedback",
+      "com.google.android.apps.wellbeing"
+    ],
+    "2": [
+      "com.google.android.apps.youtube.music",
+      "com.google.android.keep",
+      "com.google.android.apps.podcasts",
+      "com.google.android.apps.docs",
+      "com.google.android.apps.subscriptions.red"
+    ],
+    "3": [
+      "com.android.chrome",
+      "com.google.android.gm",
+      "com.google.android.apps.maps",
+      "com.google.android.apps.docs.editors.docs",
+      "com.google.android.apps.docs.editors.sheets",
+      "com.google.android.printservice.recommendation"
+    ]
+  }
+}

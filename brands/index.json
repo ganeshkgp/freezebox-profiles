@@ -1,0 +1,9 @@
+{
+  "vivo": ["vivo", "iqoo"],
+  "xiaomi": ["xiaomi", "redmi", "poco"],
+  "samsung": ["samsung"],
+  "oppo": ["oppo"],
+  "realme": ["realme"],
+  "oneplus": ["oneplus"],
+  "motorola": ["motorola", "moto", "lenovo"]
+}

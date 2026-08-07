@@ -1,0 +1,24 @@
+{
+  "brand": "motorola",
+  "_note": "Motorola / Lenovo (near-stock; mostly Google apps live in generic.json). Seed list — refine per device.",
+  "bloat": {
+    "1": [
+      "com.motorola.motocare",
+      "com.motorola.help",
+      "com.motorola.demo",
+      "com.motorola.genie",
+      "com.motorola.launcher3.badgeprovider"
+    ],
+    "2": [
+      "com.motorola.notification",
+      "com.motorola.ccc.notification",
+      "com.motorola.audiomonitor",
+      "com.motorola.motosignature.app"
+    ],
+    "3": [
+      "com.android.chrome",
+      "com.motorola.motogallery",
+      "com.motorola.files"
+    ]
+  }
+}

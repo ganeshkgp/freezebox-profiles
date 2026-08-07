@@ -1,0 +1,32 @@
+{
+  "brand": "oppo",
+  "_note": "OPPO ColorOS (com.oppo.* / com.coloros.* / com.heytap.*). Seed list — refine per device.",
+  "bloat": {
+    "1": [
+      "com.oppo.market",
+      "com.heytap.market",
+      "com.coloros.gamespace",
+      "com.nearme.gamecenter",
+      "com.heytap.themestore",
+      "com.coloros.assistantscreen",
+      "com.oppo.quicksearchbox",
+      "com.nearme.instant.platform"
+    ],
+    "2": [
+      "com.coloros.weather2",
+      "com.heytap.cloud",
+      "com.coloros.cloud",
+      "com.coloros.compass2",
+      "com.heytap.music",
+      "com.coloros.soundrecorder",
+      "com.oppo.usercenter"
+    ],
+    "3": [
+      "com.heytap.browser",
+      "com.android.browser",
+      "com.android.chrome",
+      "com.coloros.filemanager",
+      "com.coloros.gallery3d"
+    ]
+  }
+}

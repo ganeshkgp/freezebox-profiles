@@ -1,0 +1,34 @@
+{
+  "brand": "samsung",
+  "_note": "Samsung One UI. Seed list — refine per device. Never lists SMS/dialer/SystemUI (protected on-device anyway).",
+  "bloat": {
+    "1": [
+      "com.samsung.android.game.gamehome",
+      "com.samsung.android.game.gametools",
+      "com.samsung.android.app.spage",
+      "com.sec.android.app.samsungapps",
+      "com.samsung.android.themestore",
+      "com.samsung.android.app.tips",
+      "com.samsung.android.app.updatecenter",
+      "com.samsung.android.kidsinstaller",
+      "com.samsung.android.rubin.app"
+    ],
+    "2": [
+      "com.samsung.android.bixby.agent",
+      "com.samsung.android.bixbyvision.framework",
+      "com.samsung.android.visionintelligence",
+      "com.samsung.android.scloud",
+      "com.samsung.android.forest",
+      "com.samsung.android.arzone",
+      "com.samsung.android.aremoji",
+      "com.samsung.android.livewallpaper.aod"
+    ],
+    "3": [
+      "com.sec.android.app.sbrowser",
+      "com.android.chrome",
+      "com.sec.android.app.myfiles",
+      "com.samsung.android.email.provider",
+      "com.sec.android.gallery3d"
+    ]
+  }
+}

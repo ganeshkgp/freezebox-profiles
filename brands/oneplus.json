@@ -1,0 +1,26 @@
+{
+  "brand": "oneplus",
+  "_note": "OnePlus OxygenOS (com.oneplus.* / newer models share com.heytap.*). Seed list — refine per device.",
+  "bloat": {
+    "1": [
+      "com.oneplus.gamespace",
+      "com.oneplus.store",
+      "com.heytap.market",
+      "com.oneplus.brickmode",
+      "com.heytap.themestore"
+    ],
+    "2": [
+      "com.oneplus.note",
+      "com.oneplus.weather",
+      "com.heytap.cloud",
+      "com.oneplus.soundrecorder",
+      "com.oneplus.opbugreportlite"
+    ],
+    "3": [
+      "com.heytap.browser",
+      "com.android.chrome",
+      "com.oneplus.filemanager",
+      "com.oneplus.gallery"
+    ]
+  }
+}

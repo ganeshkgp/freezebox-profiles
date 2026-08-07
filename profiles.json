@@ -20,7 +20,8 @@
     ],
     "keepActive": [
       "com.spotify.music"
-    ]
+    ],
+    "bloatLevel": 1
   },
   {
     "id": "gaming_optimised",
@@ -54,7 +55,8 @@
     ],
     "keepActive": [
       "com.spotify.music"
-    ]
+    ],
+    "bloatLevel": 2
   },
   {
     "id": "gaming_aggressive",
@@ -97,7 +99,8 @@
     "keepActive": [
       "com.spotify.music"
     ],
-    "aggressive": true
+    "aggressive": true,
+    "bloatLevel": 3
   },
   {
     "id": "work",
@@ -138,7 +141,8 @@
       "com.google.android.gm",
       "com.microsoft.teams",
       "com.android.chrome"
-    ]
+    ],
+    "bloatLevel": 1
   },
   {
     "id": "study",
@@ -177,7 +181,8 @@
     "keepActive": [
       "com.android.chrome",
       "notion.id"
-    ]
+    ],
+    "bloatLevel": 1
   },
   {
     "id": "sleep",
@@ -220,7 +225,8 @@
     "keepActive": [
       "com.google.android.deskclock"
     ],
-    "aggressive": true
+    "aggressive": true,
+    "bloatLevel": 3
   },
   {
     "id": "focus",
@@ -264,7 +270,8 @@
       "com.android.chrome",
       "com.google.android.gm"
     ],
-    "aggressive": true
+    "aggressive": true,
+    "bloatLevel": 2
   },
   {
     "id": "debloat",
@@ -288,6 +295,7 @@
       "com.spotify.music",
       "com.amazon.avod.thirdpartyclient"
     ],
-    "keepActive": []
+    "keepActive": [],
+    "bloatLevel": 3
   }
 ]

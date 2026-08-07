@@ -1,0 +1,31 @@
+{
+  "brand": "realme",
+  "_note": "realme UI (com.realme.* / com.coloros.* / com.heytap.*). Seed list — refine per device.",
+  "bloat": {
+    "1": [
+      "com.heytap.market",
+      "com.realme.appstore",
+      "com.coloros.gamespace",
+      "com.nearme.gamecenter",
+      "com.heytap.themestore",
+      "com.coloros.assistantscreen",
+      "com.nearme.instant.platform",
+      "com.realmecomm.app"
+    ],
+    "2": [
+      "com.coloros.weather2",
+      "com.heytap.cloud",
+      "com.coloros.compass2",
+      "com.heytap.music",
+      "com.coloros.soundrecorder",
+      "com.heytap.usercenter"
+    ],
+    "3": [
+      "com.heytap.browser",
+      "com.android.browser",
+      "com.android.chrome",
+      "com.coloros.filemanager",
+      "com.coloros.gallery3d"
+    ]
+  }
+}

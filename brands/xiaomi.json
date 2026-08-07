@@ -1,0 +1,33 @@
+{
+  "brand": "xiaomi",
+  "_note": "Xiaomi / Redmi / POCO (MIUI / HyperOS). Seed list — refine per device.",
+  "bloat": {
+    "1": [
+      "com.miui.analytics",
+      "com.xiaomi.mipicks",
+      "com.miui.player",
+      "com.miui.video",
+      "com.miui.videoplayer",
+      "com.miui.bugreport",
+      "com.xiaomi.glgm",
+      "com.miui.newhome",
+      "com.mi.globalminusscreen"
+    ],
+    "2": [
+      "com.miui.weather2",
+      "com.xiaomi.scanner",
+      "com.miui.notes",
+      "com.android.thememanager",
+      "com.miui.cloudservice",
+      "com.miui.cloudbackup",
+      "com.xiaomi.midrop",
+      "com.miui.yellowpage"
+    ],
+    "3": [
+      "com.mi.globalbrowser",
+      "com.android.chrome",
+      "com.mi.android.globalFileexplorer",
+      "com.miui.gallery"
+    ]
+  }
+}
