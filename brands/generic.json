@@ -215,7 +215,6 @@
       "com.google.android.overlay.gmsconfig.personalsafety",
       "com.google.android.overlay.gmsconfig.searchselector",
       "com.google.android.printservice.recommendation",
-      "com.google.android.webview",
       "com.google.android.wifi.dialog"
     ]
   },

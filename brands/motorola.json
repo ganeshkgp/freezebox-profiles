@@ -124,7 +124,6 @@
       "com.motorola.camera3",
       "com.motorola.camera3.consent.ai",
       "com.motorola.camera3.content.ai",
-      "com.motorola.carrierconfig",
       "com.motorola.carriersettingsext",
       "com.motorola.ccc.notification",
       "com.motorola.dolby.dolbyui",
@@ -171,8 +170,7 @@
       "com.motorola.setup",
       "com.motorola.setup.auto_generated_rro_product__",
       "com.motorola.setup.overlay.dataenable",
-      "com.motorola.smart5g",
-      "com.motorola.thermalservice"
+      "com.motorola.smart5g"
     ]
   },
   "protected": [

@@ -274,8 +274,7 @@
       "com.oplus.smartengine",
       "com.oplus.uiengine",
       "com.oppo.em5g",
-      "com.oppo.ota",
-      "com.oppo.webview"
+      "com.oppo.ota"
     ]
   },
   "protected": [
