@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "videos": {
+    "developer_options": {
+      "title": "Unlock Developer options",
+      "url": "https://www.youtube.com/watch?v=FbsmTKmCEPQ",
+      "orientation": "landscape"
+    },
+    "usb_debugging": {
+      "title": "Enable USB debugging",
+      "url": "https://www.youtube.com/watch?v=0usgePpr8_Y",
+      "orientation": "landscape"
+    },
+    "wireless_debugging": {
+      "title": "Enable Wireless debugging",
+      "url": "https://youtu.be/rHMnUgzMfT4",
+      "orientation": "portrait"
+    },
+    "pairing": {
+      "title": "Pair this phone",
+      "url": "https://youtu.be/rHMnUgzMfT4",
+      "orientation": "portrait"
+    }
+  }
+}
